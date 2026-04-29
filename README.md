@@ -2,7 +2,7 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=5005&pause=1000&color=10F7DD&background=FFFFFF00&random=true&width=435&lines=Hi+I'm+Nguyen+Kien+Quoc%F0%9F%8C%84;FinTech+Freshman+%F0%9F%92%B9;Future+Solution+Architect+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
                           
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1bLvCmyJ4z/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bonjaro_hacker?igsh=cG9kZGMzdXp5ZnMz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@bomjaro_hacker?_r=1&_t=ZS-95weXkblqC4) 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img target="_blank" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU5YjVjN3Y5emJzMmpiMzdnbTdydDdxbmVsMDdtNHd3bWs4ODgyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" data-target="animated-image.originalLink"><img target="_blank" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanU5YjVjN3Y5emJzMmpiMzdnbTdydDdxbmVsMDdtNHd3bWs4ODgyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 </div>     
                                             
 <h2 class="heading-element" dir="auto">📫 Let's Connect <a href="https://www.facebook.com/share/1bLvCmyJ4z/" rel="nofollow">My Facebook</a></h2>                                                                               
@@ -11,7 +11,7 @@
 [![](https://visitcount.itsvg.in/api?id=NguyenKienQuoc369&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 <div align="center" dir="auto">
-  <animated-image data-catalyst="" style="width: 90%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/1bLvCmyJ4z/" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/2e2f3aedb4311268b551dd3b0d0fd2ee749e39c1503c14100f14a85871b91474/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38302f37382f61322f38303738613238363262636235653930343166666263313266373966326261652e676966" alt="Facebook" data-canonical-src="https://i.pinimg.com/originals/80/78/a2/8078a2862bcb5e9041ffbc12f79f2bae.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <animated-image data-catalyst="" style="width: 90%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/1bLvCmyJ4z/" data-target="animated-image.originalLink"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0wZG5uODUyenhjbnJxc3JlenpsdWFzaHRvNWVpcG5neDlmM2g5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" alt="Kali Linux" data-canonical-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0wZG5uODUyenhjbnJxc3JlenpsdWFzaHRvNWVpcG5neDlmM2g5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://www.facebook.com/share/1bLvCmyJ4z/" target="_blank">
         <span data-target="animated-image.imageContainer">
@@ -37,15 +37,6 @@
 </div>
 <!--![INTRO](https://github.com/TruongTanNghia/TruongTanNghia/assets/92427686/5fec5021-f2b7-47ec-a6ce-bc657022038a) -->
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-
-<h2>Về tôi</h2>
-
-- 🎓 Sinh viên năm nhất chuyên ngành **FinTech** (Công nghệ Tài chính).
-- 🏗️ Mục tiêu dài hạn: Trở thành **Solution Architect**, thiết kế các hệ thống tài chính chịu tải cao, an toàn và tối ưu.
-- 💡 Đang tập trung phát triển các dự án kết hợp giữa nghiệp vụ tài chính/ngân hàng và công nghệ Web thế hệ mới (Next.js, Prisma).
-- 🧠 Đam mê khám phá AI, Cybersecurity (Kali Linux) và tối ưu hóa kiến trúc hạ tầng.
-  
 <h1> 💻Programming Languages Showcase </h1>
 <p align="center">  
   <a href="https://skillicons.dev">
@@ -118,7 +109,6 @@
 </table>
 
 <img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="35%" height="35%" />
-<img align="left" alt="GIF description" src="/Gianguyen1234/Gianguyen1234/raw/main/Skills_Animation_White.gif" style="visibility:visible;max-width:100%;"> <img align="right" alt="GIF" src="https://github.com/letdtcode/letdtcode/blob/main/giphy.gif?raw=true" width="35%" height="35%" /> 
 <!--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) -->
 
 <!-- <a href="https://visitcount.itsvg.in">
