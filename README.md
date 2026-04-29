@@ -81,18 +81,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" alt="Divider" />
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenKienQuoc369&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenKienQuoc369&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenKienQuoc369&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Activity Graph" />
+</div>
 
 # 📊 GitHub Stats  
 
-<div align="center "> 
-
+<div align="center"> 
   <img style="display: block;  
   margin-left: auto;
   margin-right: auto;
-  width:70% ;
-  grid-column: 1/-1;" 
-    src="https://github-readme-stats.vercel.app/api?username=NguyenKienQuoc369&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" />
+  width:70%;" 
+    src="https://github-readme-stats.vercel.app/api?username=NguyenKienQuoc369&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" alt="GitHub Stats" />
+</div>
      
 <!-- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
