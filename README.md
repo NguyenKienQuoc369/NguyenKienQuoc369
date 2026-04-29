@@ -4,8 +4,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1bLvCmyJ4z/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bonjaro_hacker?igsh=cG9kZGMzdXp5ZnMz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@bomjaro_hacker?_r=1&_t=ZS-95weXkblqC4) 
 </div>     
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
 
 <h2 class="heading-element" dir="auto">📫 Let's Connect <a href="https://www.facebook.com/share/1bLvCmyJ4z/" rel="nofollow">My Facebook</a></h2>                                                                               
                                                                                                                                                                        
