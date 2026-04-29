@@ -9,8 +9,6 @@
                                                                                                               
 [![](https://visitcount.itsvg.in/api?id=NguyenKienQuoc369&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a> 
 
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/1bLvCmyJ4z/">
@@ -103,12 +101,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" alt="Divider" />
 </a>
 
-<table>
-  <tr>
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550" alt="Skills Animation">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550" alt="Skills Animation">
+</div>
  
