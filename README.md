@@ -11,7 +11,7 @@
 
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/1bLvCmyJ4z/">
-    <img src="https://media4.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Facebook Connect" style="max-width: 100%; display: inline-block;" />
+    <img src="https://media.giphy.com/media/M9gbBgmZazh6jKmUva/giphy.gif" alt="Facebook Connect" style="max-width: 100%; display: inline-block;" />
   </a>
 </div>
 
