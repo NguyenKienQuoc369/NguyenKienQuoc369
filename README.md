@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">      
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=5005&pause=1000&color=10F7DD&background=FFFFFF00&random=true&width=435&lines=Hi+I'm+Nguyen+Kien+Quoc%F0%9F%8C%84;FinTech+Freshman+at+UEL+%F0%9F%92%B9;Future+Solution+Architect+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=5005&pause=1000&color=10F7DD&background=FFFFFF00&random=true&width=435&lines=Hi+I'm+Nguyen+Kien+Quoc%F0%9F%8C%84;FinTech+Freshman+at+UEL+%F0%9F%92%B9;Future+Solution+Architect+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
                           
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1bLvCmyJ4z/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bonjaro_hacker?igsh=cG9kZGMzdXp5ZnMz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@bomjaro_hacker?_r=1&_t=ZS-95weXkblqC4) 
 </div>     
@@ -95,5 +95,9 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550" alt="Skills Animation">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" alt="Footer" />
 </div>
  
