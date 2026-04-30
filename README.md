@@ -6,6 +6,10 @@
 
 
 <h2 class="heading-element" dir="auto">📫 Let's Connect <a href="https://www.facebook.com/share/1bLvCmyJ4z/" rel="nofollow">My Facebook</a></h2>                                                                               
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" alt="Divider" />
+</a>
                                                                                                                                                                        
 [![](https://visitcount.itsvg.in/api?id=NguyenKienQuoc369&icon=0&color=0)](https://visitcount.itsvg.in) 
 
@@ -14,9 +18,6 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE1Njh6Yms4aGR4dXJ1d3lmNGprdDYxN2dnMTF1eWZtMjZrYWswZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" alt="Facebook Connect" style="max-width: 100%; display: inline-block;" />
   </a>
 </div>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
 
 <!--![INTRO](https://github.com/TruongTanNghia/TruongTanNghia/assets/92427686/5fec5021-f2b7-47ec-a6ce-bc657022038a) -->
 
