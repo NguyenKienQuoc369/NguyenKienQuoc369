@@ -72,11 +72,7 @@
 <h1>📊 GitHub Stats</h1>
 
 <div align="center"> 
-  <img style="display: block;  
-  margin-left: auto;
-  margin-right: auto;
-  width:70%;" 
-    src="https://github-readme-stats.vercel.app/api?username=NguyenKienQuoc369&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NguyenKienQuoc369&theme=tokyonight" alt="GitHub Stats" />
 </div>
      
 <!-- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) -->
