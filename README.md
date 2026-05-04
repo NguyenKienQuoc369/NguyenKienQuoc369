@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="width: 50%; max-width: 50%; height: 120px; object-fit: cover; object-position: center; display: block;" />
+  <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="max-width: 100%;" />
 </div>
 
 <br/>
@@ -97,6 +97,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="width: 50%; max-width: 50%; height: 120px; object-fit: cover; object-position: center; display: block;" />
+  <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="max-width: 100%;" />
 </div>
 
