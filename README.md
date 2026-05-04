@@ -26,6 +26,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1200" style="max-width: 100%; height: auto; display: block;" alt="Divider" />
 </a>
 
+<br>
+
 <h1> 💻Programming Languages Showcase </h1>
 <p align="center">  
   <a href="https://skillicons.dev">
