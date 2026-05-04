@@ -1,8 +1,12 @@
-<div style="background-color:#060b0f;color:#c8fff4;padding:18px 16px;border-radius:14px;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0;">
+  <tr>
+    <td bgcolor="#030a06" style="background-color:#030a06;color:#b6ffe0;padding:18px 16px;border-radius:14px;border:1px solid #10F7DD;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace;">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="max-width: 100%;" />
-</div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">      
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=5005&pause=1000&color=10F7DD&background=FFFFFF00&random=true&width=435&lines=Hi+I'm+Nguyen+Kien+Quoc%F0%9F%8C%84;FinTech+Freshman+at+UEL+%F0%9F%92%B9;Future+Solution+Architect+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
