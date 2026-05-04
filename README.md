@@ -23,7 +23,7 @@
 
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/1bLvCmyJ4z/">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE1Njh6Yms4aGR4dXJ1d3lmNGprdDYxN2dnMTF1eWZtMjZrYWswZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" alt="Facebook Connect" style="max-width: 100%; display: inline-block;" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE1Njh6Yms4aGR4dXJ1d3lmNGprdDYxN2dnMTF1eWZtMjZrYWswZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" alt="Facebook Connect" style="width: 100%; max-width: 100%; height: auto; display: block;" />
   </a>
 </div>
 
