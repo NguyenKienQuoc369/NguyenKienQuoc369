@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Nguyen%20Kien%20Quoc&fontSize=36&fontAlignY=35&animation=twinkling" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10F7DD&height=140&section=header&text=Nguyen%20Kien%20Quoc&fontSize=36&fontAlignY=35&animation=twinkling" alt="Header" />
 </div>
 
 <div align="center">      
@@ -98,6 +98,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10F7DD&height=140&section=footer&animation=twinkling" alt="Footer" />
 </div>
  
