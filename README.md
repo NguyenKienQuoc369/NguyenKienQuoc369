@@ -1,7 +1,3 @@
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0;">
-  <tr>
-    <td bgcolor="#030a06" style="background-color:#030a06;color:#b6ffe0;padding:18px 16px;border-radius:14px;border:1px solid #10F7DD;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace;">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="max-width: 100%;" />
 </div>
@@ -104,8 +100,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="max-width: 100%;" />
 </div>
-
-    </td>
-  </tr>
-</table>
 
