@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/neon-wave.svg" alt="Animated neon waves" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave.svg" alt="Animated neon waves" style="max-width: 100%;" />
 </div>
 
 <div align="center">      
