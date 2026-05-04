@@ -13,7 +13,7 @@
 
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 100%; height: auto; display: block;" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1200" style="max-width: 100%; height: auto; display: block;" alt="Divider" />
 </a>
 
 
@@ -23,14 +23,14 @@
 
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/share/1bLvCmyJ4z/" style="display: block; width: 100%;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE1Njh6Yms4aGR4dXJ1d3lmNGprdDYxN2dnMTF1eWZtMjZrYWswZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" alt="Facebook Connect" style="width: 100%; max-width: 100%; height: auto; display: block;" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE1Njh6Yms4aGR4dXJ1d3lmNGprdDYxN2dnMTF1eWZtMjZrYWswZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" width="1200" alt="Facebook Connect" style="max-width: 100%; height: auto; display: block;" />
   </a>
 </div>
 
 <!--![INTRO](https://github.com/TruongTanNghia/TruongTanNghia/assets/92427686/5fec5021-f2b7-47ec-a6ce-bc657022038a) -->
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 100%; height: auto; display: block;" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1200" style="max-width: 100%; height: auto; display: block;" alt="Divider" />
 </a>
 
 <h1> 💻Programming Languages Showcase </h1>
@@ -81,7 +81,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 100%; height: auto; display: block;" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1200" style="max-width: 100%; height: auto; display: block;" alt="Divider" />
 </a>
 
 <div align="center">
