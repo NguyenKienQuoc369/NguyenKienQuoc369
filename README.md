@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/NguyenKienQuoc369/NguyenKienQuoc369/main/assets/neon-wave-v2.svg" alt="Animated neon waves" style="max-width: 100%;" />
 </div>
 
+<div>
+</div>
+
 <div align="center">      
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=5005&pause=1000&color=10F7DD&background=FFFFFF00&random=true&width=435&lines=Hi+I'm+Nguyen+Kien+Quoc%F0%9F%8C%84;FinTech+Freshman+at+UEL+%F0%9F%92%B9;Future+Solution+Architect+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
                           
